@@ -1,0 +1,6 @@
+README.md
+setup.py
+Devansh_Topsis_Package.egg-info/PKG-INFO
+Devansh_Topsis_Package.egg-info/SOURCES.txt
+Devansh_Topsis_Package.egg-info/dependency_links.txt
+Devansh_Topsis_Package.egg-info/top_level.txt
